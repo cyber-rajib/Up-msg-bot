@@ -2,7 +2,7 @@ module.exports.config = {
   name: `ai`,
   version: "1.1.0",
   hasPermssion: 0,
-  credits: "nazrul",
+  credits: "CYBER-CHAT",
   description: "",
   commandCategory: "without prefix",
   usages: `ai (question)`,
